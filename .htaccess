@@ -1,0 +1,7 @@
+Header append X-FRAME-OPTIONS "SAMEORIGIN"
+Options -Indexes
+ErrorDocument 400 https://doit4vendee.fr/error
+ErrorDocument 401 https://doit4vendee.fr/error
+ErrorDocument 403 https://doit4vendee.fr/error
+ErrorDocument 404 https://doit4vendee.fr/error
+ErrorDocument 500 https://doit4vendee.fr/error
